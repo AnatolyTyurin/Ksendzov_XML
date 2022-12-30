@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<basic_testing_theory>QA,QC,testing</basic_testing_theory>
+	<basic_testing_theory>bug reports</basic_testing_theory>
+	<basic_testing_theory>testing documentation</basic_testing_theory>
+	<basic_testing_theory>types and methods of testing</basic_testing_theory>
+	<basic_testing_theory>SDLC</basic_testing_theory>
+	<basic_testing_theory>STLC</basic_testing_theory>
+	<HTTP>client-server architecture</HTTP>
+	<HTTP>HTTP methods of requests</HTTP>
+	<HTTP>HTTP server response codes</HTTP>
+	<HTTP>Structures of HTTP requests and responses</HTTP>
+	<data_interchange_format>JSON</data_interchange_format>
+	<data_interchange_format>XML</data_interchange_format>
+	<API>Postman</API>
+	<API>JS</API>
+	<API>API autotests</API>
+	<sniffing>Charles</sniffing>
+	<sniffing>Fiddler</sniffing>
+	<DevTools>Google Chrome</DevTools>
+	<DevTools>FireFox</DevTools>
+	<VPN>General info</VPN>
+	<Mobile_testing>IOS</Mobile_testing>
+	<Mobile_testing>Android</Mobile_testing>
+	<Mobile_testing>XCode</Mobile_testing>
+	<Mobile_testing>Android Studio</Mobile_testing>
+	<Mobile_testing>ADB</Mobile_testing>
+	<Mobile_testing>Proxy and vpn settings on iOS and Android</Mobile_testing>
+	<Mobile_testing>Sniffing traffic using Charles and Fiddler on IOS and Android</Mobile_testing>
+	<Linux_Terminal>Copying, creating, viewing, moving files and etc.</Linux Terminal>
+	<Linux_Terminal>Base of Bash scripting</Linux Terminal>
+	<Linux_Terminal>Access to remote servers</Linux Terminal>
+	<SQL>Create, Delete, Drop, Insert Into, Select, From, Where, Join</SQL>
+	<SQL>PostgreSQL</SQL>
+	<SQL>Redis</SQL>
+	<Load_testing>Jmeter</Load_testing>
+	<Development_methodology>SCRUM</Development_methodology>
+	<Programming_language>Base of Python</Programming language>
