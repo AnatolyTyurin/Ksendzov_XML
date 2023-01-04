@@ -1,1 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+   <Bug-ID>1</Bug-ID>
+   <Title>There is no onboarding during first launch of the application</Title>
+   <STR>1. Download the application</STR>
+   <STR>2. Open the application</STR>
+   <AR>Lessons main screen is displayed</AR>
+   <ER>Onboarding screen is displayed</ER>
+   <Environment>Xiaomi Mi9, Android 10</Environment>
+   <Severity>Minor</Severity>
+   <Priority>N/a</Priority>
+   <Author>Anatoly Tyurin</Author>
+</bug_report>
+
+
+
+
+
+  
+
+
+
 
